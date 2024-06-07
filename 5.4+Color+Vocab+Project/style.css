@@ -1,0 +1,32 @@
+h2 {
+  font-weight: normal;
+}
+
+p[draggable="true"] {
+  color: red;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+#red {
+  color: red;
+}
+
+#green {
+  color: green;
+}
+
+#orange {
+  color: orange;
+}
+
+#blue {
+  color: blue;
+}
+
+#yellow {
+  color: yellow;
+}
